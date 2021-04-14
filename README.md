@@ -1,3 +1,23 @@
+## next-google-clone
+
+<p>
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
+</p>
+<p>
+  <a href="https://github.com/navalmonga/next-google-clone/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="next-google-clone: This project is released under the MIT license." />
+  </a>
+</p>
+
+## Features
+
+- Server-Side Rendering (SSR)
+- TailwindCSS
+
+## Credits
+
+- Sonny Sangha on YouTube
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
