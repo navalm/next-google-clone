@@ -10,7 +10,7 @@ const MainForm = () => {
     const term = searchInputRef.current? searchInputRef.current.value: null
     if (!term) return
 
-    router.push(`/search?term${term}`)
+    router.push(`/search/${term}`)
   }
   return (
     <main className={'w-full h-full p-3'}>

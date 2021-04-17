@@ -13,10 +13,11 @@
 
 - Server-Side Rendering (SSR)
 - TailwindCSS
+- Pagination
 
 ## Credits
 
-- Sonny Sangha on YouTube
+- Sonny Sangha on [YouTube](https://www.youtube.com/watch?v=24xpTmaPOdY)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
